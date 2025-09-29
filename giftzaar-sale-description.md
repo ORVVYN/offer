@@ -1,4 +1,4 @@
-# add more gifts actions more gifts bloackchain GiftZaar - Маркетплейс цифровых подарков Telegram с блокчейн-интеграцией
+# add stars and stickers bitcoin and etc add more gifts actions more gifts blockchain GiftZaar - Маркетплейс цифровых подарков Telegram с блокчейн-интеграцией
 
 ## 🎯 Основной функционал
 
